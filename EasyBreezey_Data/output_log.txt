@@ -1,0 +1,1198 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x179c)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7619
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oxide\Google Drive\Blow\EasyBreezey_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.470023 ms
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+?
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.981233 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 0.370567 ms (FindLiveObjects: 0.052938 ms CreateObjectMapping: 0.017382 ms MarkObjects: 0.229925 ms  DeleteObjects: 0.069925 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.411653 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 0.322765 ms (FindLiveObjects: 0.046222 ms CreateObjectMapping: 0.015802 ms MarkObjects: 0.256394 ms  DeleteObjects: 0.003950 ms)
+
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.415604 ms
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.500937 ms (FindLiveObjects: 0.083753 ms CreateObjectMapping: 0.016987 ms MarkObjects: 0.380049 ms  DeleteObjects: 0.019753 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.480394 ms
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.344888 ms (FindLiveObjects: 0.050962 ms CreateObjectMapping: 0.020938 ms MarkObjects: 0.222814 ms  DeleteObjects: 0.049382 ms)
+
+https://services.cognitoforms.com/forms/api/71d7a02e-ea15-4831-8fe1-ea62e5e2ddd0/forms/N2OBlowFileData/searchEntries?criteria==(Level.ToLower()="level 1: the generator")
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Request finished successfully!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.347654 ms
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.488295 ms (FindLiveObjects: 0.051357 ms CreateObjectMapping: 0.016197 ms MarkObjects: 0.408493 ms  DeleteObjects: 0.011851 ms)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.479604 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 0.399407 ms (FindLiveObjects: 0.047802 ms CreateObjectMapping: 0.016197 ms MarkObjects: 0.282468 ms  DeleteObjects: 0.052543 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.455110 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.511209 ms (FindLiveObjects: 0.047407 ms CreateObjectMapping: 0.018962 ms MarkObjects: 0.438123 ms  DeleteObjects: 0.005530 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.431407 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.345283 ms (FindLiveObjects: 0.029234 ms CreateObjectMapping: 0.037530 ms MarkObjects: 0.273777 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.561382 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.387555 ms (FindLiveObjects: 0.061234 ms CreateObjectMapping: 0.015802 ms MarkObjects: 0.306567 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.422320 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.540048 ms (FindLiveObjects: 0.086123 ms CreateObjectMapping: 0.046617 ms MarkObjects: 0.397826 ms  DeleteObjects: 0.009086 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.538863 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.502518 ms (FindLiveObjects: 0.090469 ms CreateObjectMapping: 0.022123 ms MarkObjects: 0.385579 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.553481 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.587061 ms (FindLiveObjects: 0.073876 ms CreateObjectMapping: 0.039506 ms MarkObjects: 0.468542 ms  DeleteObjects: 0.004740 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.656592 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.413629 ms (FindLiveObjects: 0.069530 ms CreateObjectMapping: 0.031209 ms MarkObjects: 0.308147 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.542024 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.545184 ms (FindLiveObjects: 0.073481 ms CreateObjectMapping: 0.023308 ms MarkObjects: 0.444049 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.561382 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.447999 ms (FindLiveObjects: 0.068740 ms CreateObjectMapping: 0.024888 ms MarkObjects: 0.350024 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698863 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.392691 ms (FindLiveObjects: 0.067555 ms CreateObjectMapping: 0.030814 ms MarkObjects: 0.290370 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.558616 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.436147 ms (FindLiveObjects: 0.068740 ms CreateObjectMapping: 0.033185 ms MarkObjects: 0.329086 ms  DeleteObjects: 0.004740 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.529777 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.393086 ms (FindLiveObjects: 0.066370 ms CreateObjectMapping: 0.031209 ms MarkObjects: 0.291555 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568098 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.435357 ms (FindLiveObjects: 0.058864 ms CreateObjectMapping: 0.037530 ms MarkObjects: 0.334617 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.542814 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.495802 ms (FindLiveObjects: 0.070715 ms CreateObjectMapping: 0.032395 ms MarkObjects: 0.387950 ms  DeleteObjects: 0.004345 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.508839 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.438123 ms (FindLiveObjects: 0.069135 ms CreateObjectMapping: 0.033185 ms MarkObjects: 0.330271 ms  DeleteObjects: 0.005135 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.612740 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.482369 ms (FindLiveObjects: 0.069135 ms CreateObjectMapping: 0.045432 ms MarkObjects: 0.348444 ms  DeleteObjects: 0.004345 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.536888 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.507653 ms (FindLiveObjects: 0.118913 ms CreateObjectMapping: 0.023703 ms MarkObjects: 0.360296 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.555061 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.560987 ms (FindLiveObjects: 0.072296 ms CreateObjectMapping: 0.038320 ms MarkObjects: 0.446024 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.525826 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.515950 ms (FindLiveObjects: 0.073876 ms CreateObjectMapping: 0.024493 ms MarkObjects: 0.413629 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.527406 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.427456 ms (FindLiveObjects: 0.054913 ms CreateObjectMapping: 0.032790 ms MarkObjects: 0.334617 ms  DeleteObjects: 0.004740 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521876 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.510024 ms (FindLiveObjects: 0.089678 ms CreateObjectMapping: 0.022518 ms MarkObjects: 0.393481 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.559406 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.521481 ms (FindLiveObjects: 0.115357 ms CreateObjectMapping: 0.037135 ms MarkObjects: 0.364641 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.579160 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.468147 ms (FindLiveObjects: 0.095604 ms CreateObjectMapping: 0.022123 ms MarkObjects: 0.346468 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.555456 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.468147 ms (FindLiveObjects: 0.085333 ms CreateObjectMapping: 0.030024 ms MarkObjects: 0.348444 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.559406 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.439703 ms (FindLiveObjects: 0.057678 ms CreateObjectMapping: 0.022123 ms MarkObjects: 0.355950 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.730863 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.479604 ms (FindLiveObjects: 0.076246 ms CreateObjectMapping: 0.022123 ms MarkObjects: 0.376888 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.595752 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.696098 ms (FindLiveObjects: 0.089678 ms CreateObjectMapping: 0.022913 ms MarkObjects: 0.578764 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.546369 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.576394 ms (FindLiveObjects: 0.165530 ms CreateObjectMapping: 0.022123 ms MarkObjects: 0.384394 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.539258 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.586666 ms (FindLiveObjects: 0.058864 ms CreateObjectMapping: 0.037925 ms MarkObjects: 0.485530 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.613530 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 803.
+Total: 0.648690 ms (FindLiveObjects: 0.060049 ms CreateObjectMapping: 0.038320 ms MarkObjects: 0.546369 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.543999 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 680.
+Total: 0.503703 ms (FindLiveObjects: 0.083357 ms CreateObjectMapping: 0.024493 ms MarkObjects: 0.391900 ms  DeleteObjects: 0.003950 ms)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.478419 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 680.
+Total: 0.606419 ms (FindLiveObjects: 0.069530 ms CreateObjectMapping: 0.031604 ms MarkObjects: 0.500937 ms  DeleteObjects: 0.003555 ms)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.536098 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 680.
+Total: 0.503703 ms (FindLiveObjects: 0.082962 ms CreateObjectMapping: 0.024098 ms MarkObjects: 0.391900 ms  DeleteObjects: 0.004345 ms)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ball 1	Primary
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.568098 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 680.
+Total: 0.504493 ms (FindLiveObjects: 0.055308 ms CreateObjectMapping: 0.031209 ms MarkObjects: 0.413629 ms  DeleteObjects: 0.003950 ms)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.567308 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 680.
+Total: 0.571653 ms (FindLiveObjects: 0.082962 ms CreateObjectMapping: 0.015012 ms MarkObjects: 0.469332 ms  DeleteObjects: 0.003950 ms)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Door	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top 2	Solid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bottom	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Top	Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wind	Wind
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 0.494221 ms
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.656592 ms (FindLiveObjects: 0.052543 ms CreateObjectMapping: 0.031209 ms MarkObjects: 0.506468 ms  DeleteObjects: 0.065580 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.438123 ms
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.573234 ms (FindLiveObjects: 0.058074 ms CreateObjectMapping: 0.016592 ms MarkObjects: 0.449184 ms  DeleteObjects: 0.048987 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.309728 ms
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.633283 ms (FindLiveObjects: 0.065975 ms CreateObjectMapping: 0.016592 ms MarkObjects: 0.538863 ms  DeleteObjects: 0.011061 ms)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.483555 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 0.595357 ms (FindLiveObjects: 0.047407 ms CreateObjectMapping: 0.015802 ms MarkObjects: 0.461826 ms  DeleteObjects: 0.054913 ms)
+
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.436937 ms
+Game Load Successful!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 600.
+Total: 0.651061 ms (FindLiveObjects: 0.065580 ms CreateObjectMapping: 0.025283 ms MarkObjects: 0.541234 ms  DeleteObjects: 0.018567 ms)
+
+Play
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.507258 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 0.594962 ms (FindLiveObjects: 0.062814 ms CreateObjectMapping: 0.015802 ms MarkObjects: 0.466962 ms  DeleteObjects: 0.048987 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.447604 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 506.
+Total: 0.593382 ms (FindLiveObjects: 0.069925 ms CreateObjectMapping: 0.016592 ms MarkObjects: 0.502518 ms  DeleteObjects: 0.003950 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1e70 -> priority: 1 
+  Thread -> id: 3144 -> priority: 1 
